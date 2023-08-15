@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_its_mr_pratik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_its_mr_pratik_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik tikhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik tikhe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratik-tikhe-482375288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik tikhe" height="30" width="40" /></a>
 <a href="https://instagram.com/_its_mr_pratik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_mr_pratik_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pratiktikhe_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratiktikhe_04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratiktikhe2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratiktikhe2004" height="30" width="40" /></a>
