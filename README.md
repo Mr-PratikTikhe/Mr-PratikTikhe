@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pratiktikhe2004@gmail.com**
 
-- ⚡ Fun fact **"Fun Fact: I managed to hack a game using YouTube tutorials, turning virtual worlds into my playground. Don't worry, I play by the rules now! 😉🎮"**
+- ⚡ Fun fact **"I managed to hack a game using YouTube tutorials, turning virtual worlds into my playground. Don't worry, I play by the rules now! 😉🎮"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
