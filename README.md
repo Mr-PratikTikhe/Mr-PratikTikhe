@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mr-PratikTikhe/github-profile-header-generator/blob/main/image.png)
+![MasterHead](https://github.com/Mr-PratikTikhe/profile/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1)-01.jpeg)
 
 <h4 align="center">>>>"Dedicated CS Engineering Student Harnesses Passion for Coding to Drive Innovation and Excellence"<<<</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_its_mr_pratik_" target="blank"><img src="https://img.shields.io/twitter/follow/_its_mr_pratik_?logo=twitter&style=for-the-badge" alt="_its_mr_pratik_" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **web development and DSA**
 
 - 💬 Ask me about **C,C++,JAVA programming**
 
