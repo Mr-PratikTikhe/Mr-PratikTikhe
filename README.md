@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Mr-PratikTikhe/github-profile-header-generator/blob/main/image.png)
 
 <h4 align="center">>>>"Dedicated CS Engineering Student Harnesses Passion for Coding to Drive Innovation and Excellence"<<<</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f1af8a957990539494a56ce741b6704596863b75be429189fe9bb605e129eefa/68747470733a2f2f77616c6c7061706572636176652e636f6d2f7577702f7577703735373639332e676966">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-pratiktikhe&label=Profile%20views&color=0e75b6&style=flat" alt="mr-pratiktikhe" /> </p>
 
