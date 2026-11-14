@@ -29,50 +29,6 @@ I'm a Computer Science graduate (B.Tech, RTMNU Nagpur, 2026) who builds AI-power
 ## 🚀 Featured projects
 
 <div align="center">
-
-<p><sub>SELECTED WORK &nbsp;·&nbsp; AI / ML &nbsp;·&nbsp; FULL-STACK ENGINEERING</sub></p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🎧 <a href="https://github.com/Mr-PratikTikhe/AuralOf">AuralOf</a></h3>
-<p>Detects AI-generated music with a custom PyTorch CNN, then finds similar tracks through FAISS and TorchOpenL3 embeddings.</p>
-<p><code>PyTorch</code> <code>Flask</code> <code>React</code> <code>FAISS</code></p>
-</td>
-<td width="50%" valign="top">
-<h3>📄 <a href="https://github.com/Mr-PratikTikhe/DocForensicAI">DocForensic AI</a></h3>
-<p>A workspace for long PDFs with extraction, indexing, grounded Gemini Q&amp;A, quizzes, and flashcards.</p>
-<p><code>Gemini</code> <code>RAG</code> <code>PDF extraction</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖 <a href="https://pratikexe.vercel.app/">Javir</a></h3>
-<p>A portfolio assistant that answers from verified FAQ data first, with optional WebLLM inference in the browser.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>WebGPU</code></p>
-</td>
-<td width="50%" valign="top">
-<h3>🌐 <a href="https://ventureflock.com/">VentureFlock</a></h3>
-<p>A founder network for feeds, communities, real-time chat, notifications, and asset sharing.</p>
-<p><code>React</code> <code>Express</code> <code>PostgreSQL</code> <code>Redis</code> <code>Socket.IO</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🗺️ <a href="https://github.com/Mr-PratikTikhe/geochatbot">Geological AI Chatbot</a></h3>
-<p>Explores geological survey data with ML anomaly detection, interactive maps, and a domain-specific chatbot. 🥈 MECL hackathon</p>
-<p><code>Python</code> <code>Streamlit</code> <code>Scikit-learn</code> <code>NLP</code></p>
-</td>
-<td width="50%" valign="top">
-<h3>✦ More in progress</h3>
-<p>Building practical AI systems and the full-stack products around them.</p>
-<p><code>Retrieval</code> <code>Deep learning</code> <code>Cloud</code></p>
-</td>
-</tr>
-</table>
-
-</div>
-<div align="center">
 <img src="./assets/pipeline.svg" alt="Ingest, represent, retrieve, reason, serve" width="100%"/>
 </div>
 
