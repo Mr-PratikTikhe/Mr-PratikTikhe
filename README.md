@@ -31,11 +31,11 @@ I'm a Computer Science graduate (B.Tech, RTMNU Nagpur, 2026) who builds AI-power
 | Project | What it does | Stack |
 |---|---|---|
 | **[AuralOf](https://github.com/Mr-PratikTikhe/AuralOf)** | Tells human-made music from AI-generated music using a custom PyTorch CNN on Mel spectrograms, and finds similar tracks with FAISS vector search over TorchOpenL3 embeddings | `PyTorch` `Flask` `React` `FAISS` |
-| **[DocForensic AI](https://github.com/Mr-PratikTikhe/AuralOf)** | Document workspace for long PDFs: extraction, indexing, Gemini-powered Q&A grounded in the document, plus quizzes and flashcards for study | `Gemini` `RAG` `PDF extraction` |
-| **[Javir](https://github.com/Mr-PratikTikhe/AuralOf)** | Portfolio assistant that answers from verified FAQ data first and only then calls an LLM (Groq, GPT-OSS 120B). Optional in-browser inference with WebLLM and WebGPU | `React` `TypeScript` `Node.js` `WebGPU` |
-| **[VentureFlock](https://github.com/Mr-PratikTikhe/AuralOf)** | Networking platform for founders with feeds, communities, real-time chat, notifications and asset uploads | `React` `Express` `PostgreSQL` `Redis` `Socket.IO` |
-| **[Geological AI Chatbot](https://github.com/Mr-PratikTikhe/AuralOf)** | ML anomaly detection over geological survey data with interactive maps and a domain-specific chatbot. 🥈 MECL hackathon | `Python` `Streamlit` `Scikit-learn` `NLP` |
-| **[EVENTO](https://github.com/Mr-PratikTikhe/AuralOf)** | Inter-college event discovery and registration platform with auth and payments | `React` `Node.js` `Firebase` |
+| **[DocForensic AI](https://github.com/Mr-PratikTikhe/DocForensicAI)** | Document workspace for long PDFs: extraction, indexing, Gemini-powered Q&A grounded in the document, plus quizzes and flashcards for study | `Gemini` `RAG` `PDF extraction` |
+| **[Javir](https://pratikexe.vercel.app/)** | Portfolio assistant that answers from verified FAQ data first and only then calls an LLM (Groq, GPT-OSS 120B). Optional in-browser inference with WebLLM and WebGPU | `React` `TypeScript` `Node.js` `WebGPU` |
+| **[VentureFlock](https://ventureflock.com/)** | Networking platform for founders with feeds, communities, real-time chat, notifications and asset uploads | `React` `Express` `PostgreSQL` `Redis` `Socket.IO` |
+| **[Geological AI Chatbot](https://github.com/Mr-PratikTikhe/geochatbot)** | ML anomaly detection over geological survey data with interactive maps and a domain-specific chatbot. 🥈 MECL hackathon | `Python` `Streamlit` `Scikit-learn` `NLP` |
+
 
 <div align="center">
 <img src="./assets/pipeline.svg" alt="Ingest, represent, retrieve, reason, serve" width="100%"/>
