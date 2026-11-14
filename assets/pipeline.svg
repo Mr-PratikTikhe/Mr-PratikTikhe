@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="How my AI projects flow: ingest, represent, retrieve, reason, serve">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#7B6FE8"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="330" rx="18" fill="#0a0a0a"/><rect width="1200" height="330" rx="18" fill="url(#grid)"/><rect x=".5" y=".5" width="1199" height="329" rx="18" fill="none" stroke="#7B6FE8" stroke-opacity=".35"/>
+<text x="40" y="52" fill="#e8e8f4" font-size="22" font-weight="700" font-family="'Segoe UI',Helvetica,Arial,sans-serif">How my AI projects flow</text>
+<text x="40" y="78" fill="#8b8ba3" font-size="14" font-family="'Segoe UI',Helvetica,Arial,sans-serif">The rough shape behind AuralOf, DocForensic AI and Javir</text>
+<line x1="230.0" y1="166.0" x2="272.5" y2="166.0" stroke="#7B6FE8" stroke-opacity=".35" stroke-width="2"/>
+<line x1="230.0" y1="166.0" x2="266.5" y2="166.0" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M264.5 161.0 L272.5 166.0 L264.5 171.0" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<line x1="462.5" y1="166.0" x2="505.0" y2="166.0" stroke="#7B6FE8" stroke-opacity=".35" stroke-width="2"/>
+<line x1="462.5" y1="166.0" x2="499.0" y2="166.0" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M497.0 161.0 L505.0 166.0 L497.0 171.0" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<line x1="695.0" y1="166.0" x2="737.5" y2="166.0" stroke="#7B6FE8" stroke-opacity=".35" stroke-width="2"/>
+<line x1="695.0" y1="166.0" x2="731.5" y2="166.0" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M729.5 161.0 L737.5 166.0 L729.5 171.0" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<line x1="927.5" y1="166.0" x2="970.0" y2="166.0" stroke="#7B6FE8" stroke-opacity=".35" stroke-width="2"/>
+<line x1="927.5" y1="166.0" x2="964.0" y2="166.0" stroke="url(#g)" stroke-width="2.5" stroke-dasharray="6 8"><animate attributeName="stroke-dashoffset" values="28;0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M962.0 161.0 L970.0 166.0 L962.0 171.0" fill="none" stroke="#5EEAD4" stroke-width="2"/>
+<circle r="5" fill="#5EEAD4"><animateMotion path="M135.0 166.0 L1065.0 166.0" dur="6s" repeatCount="indefinite"/></circle>
+<rect x="40.0" y="120" width="190" height="92" rx="14" fill="#14141f" stroke="#7B6FE8" stroke-width="1.5"><animate attributeName="stroke" values="#7B6FE8;#5EEAD4;#7B6FE8;#7B6FE8" keyTimes="0;.1;.2;1" dur="6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="135.0" y="160" fill="#9D93FF" font-size="14" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace">01</text>
+<text x="135.0" y="186" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Ingest</text>
+<text x="135.0" y="242" fill="#8b8ba3" font-size="13" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">PDFs · audio · survey data</text>
+<rect x="272.5" y="120" width="190" height="92" rx="14" fill="#14141f" stroke="#7B6FE8" stroke-width="1.5"><animate attributeName="stroke" values="#7B6FE8;#5EEAD4;#7B6FE8;#7B6FE8" keyTimes="0;.1;.2;1" dur="6s" begin="1.2s" repeatCount="indefinite"/></rect>
+<text x="367.5" y="160" fill="#9D93FF" font-size="14" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace">02</text>
+<text x="367.5" y="186" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Represent</text>
+<text x="367.5" y="242" fill="#8b8ba3" font-size="13" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Mel spectrograms · embeddings</text>
+<rect x="505.0" y="120" width="190" height="92" rx="14" fill="#14141f" stroke="#7B6FE8" stroke-width="1.5"><animate attributeName="stroke" values="#7B6FE8;#5EEAD4;#7B6FE8;#7B6FE8" keyTimes="0;.1;.2;1" dur="6s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="600.0" y="160" fill="#9D93FF" font-size="14" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace">03</text>
+<text x="600.0" y="186" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Retrieve</text>
+<text x="600.0" y="242" fill="#8b8ba3" font-size="13" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">FAISS · document index</text>
+<rect x="737.5" y="120" width="190" height="92" rx="14" fill="#14141f" stroke="#7B6FE8" stroke-width="1.5"><animate attributeName="stroke" values="#7B6FE8;#5EEAD4;#7B6FE8;#7B6FE8" keyTimes="0;.1;.2;1" dur="6s" begin="3.5999999999999996s" repeatCount="indefinite"/></rect>
+<text x="832.5" y="160" fill="#9D93FF" font-size="14" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace">04</text>
+<text x="832.5" y="186" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Reason</text>
+<text x="832.5" y="242" fill="#8b8ba3" font-size="13" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">PyTorch CNN · Gemini · Groq</text>
+<rect x="970.0" y="120" width="190" height="92" rx="14" fill="#14141f" stroke="#7B6FE8" stroke-width="1.5"><animate attributeName="stroke" values="#7B6FE8;#5EEAD4;#7B6FE8;#7B6FE8" keyTimes="0;.1;.2;1" dur="6s" begin="4.8s" repeatCount="indefinite"/></rect>
+<text x="1065.0" y="160" fill="#9D93FF" font-size="14" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace">05</text>
+<text x="1065.0" y="186" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Serve</text>
+<text x="1065.0" y="242" fill="#8b8ba3" font-size="13" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif">React · Flask · Node.js</text>
+</svg>
