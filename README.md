@@ -1,43 +1,89 @@
-![MasterHead](https://github.com/Mr-PratikTikhe/profile/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1)-01.jpeg)
+<div align="center">
 
-<h4 align="center">>>>"Dedicated CS Engineering Student Harnesses Passion for Coding to Drive Innovation and Excellence"<<<</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+<img src="./assets/hero.svg" alt="Pratik Tikhe — AI/ML Engineer and Full-Stack Developer" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-pratiktikhe&label=Profile%20views&color=0e75b6&style=flat" alt="mr-pratiktikhe" /> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/_its_mr_pratik_" target="blank"><img src="https://img.shields.io/twitter/follow/_its_mr_pratik_?logo=twitter&style=for-the-badge" alt="_its_mr_pratik_" /></a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-pratikexe.vercel.app-7B6FE8?style=for-the-badge&logo=vercel&logoColor=white)](https://pratikexe.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik_Tikhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-tikhe-482375288/)
+[![Email](https://img.shields.io/badge/Email-pratiktikhe2004@gmail.com-9D93FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratiktikhe2004@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Mr-PratikTikhe&label=Profile%20views&color=7B6FE8&style=for-the-badge)
 
-- 🌱 I’m currently learning **Java backend**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-PratikTikhe](https://github.com/Mr-PratikTikhe)
-  
-- 💬 Ask me about **Web Development, Nodejs, JAVA, C and C++.**
+---
 
-- 📫 How to reach me **pratiktikhe2004@gmail.com**
+## 👋 About me
 
-- ⚡ Fun fact **I love coding so much that it's my favorite way to unwind and have fun!**
+I'm a Computer Science graduate (B.Tech, RTMNU Nagpur, 2026) who builds AI-powered applications and the full-stack software around them. My projects cover RAG-based document tools, deep learning for audio, and real-time web apps.
 
+- 🔭 Building **VentureFlock**, a founder networking platform I co-founded (React, Express, PostgreSQL, Redis, Socket.IO)
+- 🧠 Working with **PyTorch, FAISS and LLM APIs** on retrieval and audio-analysis projects
+- 🏆 **2nd place** at the 24-hour national MECL hackathon
+- 📄 Published: *EVENTO: A Centralized Platform for Inter-College Event Discovery* (IJSREM, 2024)
+- 🎯 Long-term direction: **AI & Cloud Architecture**
+- 📍 Nagpur, India · open to AI/ML and full-stack roles
 
+<img src="./assets/wave.svg" width="100%" alt=""/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 Featured projects
 
-<a href="https://twitter.com/pratik_tikhe_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_its_mr_pratik_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik tikhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik tikhe" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25349419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25349419" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_mr_pratik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_mr_pratik_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratiktikhe_04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratiktikhe_04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pratiktikhe2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratiktikhe2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr_pratik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_pratik_" height="30" width="40" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| **[AuralOf](https://github.com/Mr-PratikTikhe/AuralOf)** | Tells human-made music from AI-generated music using a custom PyTorch CNN on Mel spectrograms, and finds similar tracks with FAISS vector search over TorchOpenL3 embeddings | `PyTorch` `Flask` `React` `FAISS` |
+| **[DocForensic AI](https://github.com/Mr-PratikTikhe/AuralOf)** | Document workspace for long PDFs: extraction, indexing, Gemini-powered Q&A grounded in the document, plus quizzes and flashcards for study | `Gemini` `RAG` `PDF extraction` |
+| **[Javir](https://github.com/Mr-PratikTikhe/AuralOf)** | Portfolio assistant that answers from verified FAQ data first and only then calls an LLM (Groq, GPT-OSS 120B). Optional in-browser inference with WebLLM and WebGPU | `React` `TypeScript` `Node.js` `WebGPU` |
+| **[VentureFlock](https://github.com/Mr-PratikTikhe/AuralOf)** | Networking platform for founders with feeds, communities, real-time chat, notifications and asset uploads | `React` `Express` `PostgreSQL` `Redis` `Socket.IO` |
+| **[Geological AI Chatbot](https://github.com/Mr-PratikTikhe/AuralOf)** | ML anomaly detection over geological survey data with interactive maps and a domain-specific chatbot. 🥈 MECL hackathon | `Python` `Streamlit` `Scikit-learn` `NLP` |
+| **[EVENTO](https://github.com/Mr-PratikTikhe/AuralOf)** | Inter-college event discovery and registration platform with auth and payments | `React` `Node.js` `Firebase` |
 
+<div align="center">
+<img src="./assets/pipeline.svg" alt="Ingest, represent, retrieve, reason, serve" width="100%"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🛠️ Tech stack
 
+<div align="center">
 
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,flask&theme=dark" alt="AI/ML stack"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-pratiktikhe&show_icons=true&locale=en&layout=compact" alt="mr-pratiktikhe" /></p>
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,mongodb,firebase,docker&theme=dark" alt="Backend stack"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-pratiktikhe&show_icons=true&locale=en" alt="mr-pratiktikhe" /></p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend stack"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-pratiktikhe&" alt="mr-pratiktikhe" /></p>
+**Languages & tools**<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,git,github,linux,vercel&theme=dark" alt="Languages and tools"/>
+
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-PratikTikhe&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=9D93FF&icon_color=7B6FE8&text_color=c9d1d9&border_color=2a2a3a" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-PratikTikhe&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=9D93FF&text_color=c9d1d9&border_color=2a2a3a" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Mr-PratikTikhe&background=0a0a0a&ring=7B6FE8&fire=9D93FF&currStreakLabel=9D93FF&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b8ba3&stroke=2a2a3a&border=2a2a3a" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-PratikTikhe&bg_color=0a0a0a&color=9D93FF&line=7B6FE8&point=ffffff&area=true&area_color=7B6FE8&hide_border=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-PratikTikhe/Mr-PratikTikhe/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-PratikTikhe/Mr-PratikTikhe/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mr-PratikTikhe/Mr-PratikTikhe/output/github-snake-dark.svg">
+</picture>
+</div>
+
+## 📫 Let's connect
+
+I'm happy to talk about AI/ML projects, retrieval systems, full-stack work, or early-career roles. Email is the fastest way to reach me: **pratiktikhe2004@gmail.com**
+
+<img src="./assets/wave.svg" width="100%" alt=""/>
