@@ -57,19 +57,15 @@ I'm a Computer Science graduate (B.Tech, RTMNU Nagpur, 2026) who builds AI-power
 
 </div>
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-PratikTikhe&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=9D93FF&icon_color=7B6FE8&text_color=c9d1d9&border_color=2a2a3a" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-PratikTikhe&layout=compact&hide_border=false&bg_color=0a0a0a&title_color=9D93FF&text_color=c9d1d9&border_color=2a2a3a" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Mr-PratikTikhe&background=0a0a0a&ring=7B6FE8&fire=9D93FF&currStreakLabel=9D93FF&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b8ba3&stroke=2a2a3a&border=2a2a3a" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-PratikTikhe&bg_color=0a0a0a&color=9D93FF&line=7B6FE8&point=ffffff&area=true&area_color=7B6FE8&hide_border=true" alt="Contribution activity graph" width="100%"/>
+[![Followers](https://img.shields.io/github/followers/Mr-PratikTikhe?label=Followers&style=for-the-badge&color=7B6FE8)](https://github.com/Mr-PratikTikhe?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Mr-PratikTikhe?affiliations=OWNER&label=Stars&style=for-the-badge&color=5EEAD4)](https://github.com/Mr-PratikTikhe?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Public%20repositories-Explore%20GitHub-9D93FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-PratikTikhe?tab=repositories)
 
 </div>
-
 ## 🐍 Contribution snake
 
 <div align="center">
